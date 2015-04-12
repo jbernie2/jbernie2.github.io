@@ -1,5 +1,5 @@
 /**
- * live_score 0.0.1 built on 2015-04-11.
+ * live_score 0.0.1 built on 2015-04-12.
  * Copyright (c) 2015 John Bernier <john.b.bernier@gmail.com>
  *
  * https://github.com/jbernie2/live_score
