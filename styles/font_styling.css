@@ -1,0 +1,23 @@
+.home-icon {
+  padding-left: 8%;
+  letter-spacing: -3px;
+  font-size: 64px;
+}
+
+.home-icon > a, u {
+  text-decoration: none;
+}
+
+.headline {
+  font-variant: small-caps;
+  font-size: var(--titlized-large-font-size);
+}
+  
+.small-headline-span {
+  font-size: var(--small-headline-font-size);
+  padding-right: var(--medium-spacing);
+}
+
+.small-headline {
+  font-size: var(--small-headline-font-size);
+}

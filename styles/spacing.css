@@ -1,0 +1,16 @@
+.padding-small-top {
+  padding-top: var(--small-spacing);
+}
+
+.center-nav-items {
+  padding-top: 35px;
+  padding-right: 8%;
+}
+
+.full-screen{
+  height:100vh;
+}
+
+.half-screen{
+  height:50vh;
+}
